@@ -11,6 +11,8 @@ projects@securitynull.net.</a></p>
 
 <p>In this section we will be putting all the features of the application.</p>
 
+<h5>Client side</h5>
+
 <blockquote>
   <table>
     <tr>
