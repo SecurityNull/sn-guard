@@ -2,12 +2,12 @@
 
 Project dedicated to the remote management of mobile platform with Android OS
 
-<h2>Bugs and feature requests</h2>
+<h3>Bugs and feature requests</h3>
 
 <p>Have a bug or a feature request? Please contact us via email: <a href="mailto:projects@securitynull.net">
 projects@securitynull.net.</a></p>
 
-<h2>Current features</h2>
+<h3>Current features</h3>
 
 <p>In this section we will be putting all the features of the application.</p>
 
@@ -44,6 +44,6 @@ projects@securitynull.net.</a></p>
 </blockquote>
 
 
-<h2>Copyright and license
+<h3>Copyright and license
 
-Copyright 2013 SecurityNull, Inc under the GPL v3 license.<h2>
+Copyright 2013 SecurityNull, Inc under the GPL v3 license.<h3>
